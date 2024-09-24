@@ -32,7 +32,7 @@ public class GameGUI extends JFrame {
     private int gamesWon = 0;
     private int gamesLost = 0;
     
-    private boolean debugMode = true; // custom debug mode to check matching tiles
+    private boolean debugMode = false; // custom debug mode to check matching tiles
 
 	public GameGUI() {
 	    setTitle("Memory Game");

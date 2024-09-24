@@ -1,6 +1,7 @@
 # Memory Game
 
-This is a simple Memory Game built using Java. The game challenges you to match pairs of cards from a shuffled deck.
+This is a simple Memory Game built using Java. The game challenges you to match pairs of cards from a shuffled deck. By default the matching tiles are shown for debug purposes. 
+Change this line: private boolean debugMode = true; to false to hide the tiles.
 
 ## How to Play
 
